@@ -9,6 +9,7 @@ my zsh, oh-my-zsh, tmux, vim, etc. config files
 
 ## vim
 * Display line numbers
+* and more...
 
 ## zsh (oh-my-zsh)
 * robbyrussell theme
